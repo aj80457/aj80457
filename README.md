@@ -1,7 +1,7 @@
 # Ari Jain
 
 UCSD Mathematics & Computer Science + International Business, June 2026.
-Interested in quantitative research — signal construction, statistical
+Interested in quantitative research: signal construction, statistical
 modeling, and rigorous out-of-sample evaluation on noisy financial data.
 
 ## Featured research
@@ -45,9 +45,9 @@ notebook with regime-by-regime diagnostics.
 
 ## What I'm looking for
 
-Quantitative research roles — trading-signal development, statistical
+Quantitative research roles: trading-signal development, statistical
 modeling, applied-math problems on data-intensive systems. Graduating
-June 2026; available for full-time and summer 2026 internships.
+June 2026.
 
 ## Contact
 
