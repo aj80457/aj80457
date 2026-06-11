@@ -59,15 +59,10 @@ notebook with regime-by-regime diagnostics.
 - **Coursework:** Probability &amp; Statistics, Machine Learning,
   Optimization, Algorithms, Graph Theory, Macroeconomics
 
-## What I'm looking for
-
-Quantitative research roles: trading-signal development, statistical
-modeling, applied-math problems on data-intensive systems. Graduating
-June 2026.
 
 ## Contact
 
-📧 ari.j41771@gmail.com · 📞 408-406-8929
+📧 ari.j41771@gmail.com 
 
 ---
 
